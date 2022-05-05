@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://dazzling-granita-9de12c.netlify.app/]
+- Live Site URL: https://dazzling-granita-9de12c.netlify.app/
 
 ## My process
 
@@ -42,6 +42,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [https://www.frontendmentor.io/profile/Speredonka]
-- Twitter - [https://www.twitter.com/Speredonka]
+- Frontend Mentor - https://www.frontendmentor.io/profile/Speredonka
+- Twitter - https://www.twitter.com/Speredonka
 
